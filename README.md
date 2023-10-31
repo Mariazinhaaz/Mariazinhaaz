@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem vindo ao meu perfil! ♈
+Meu nome é Maria Madalena
 
-<!--
-**Mariazinhaaz/Mariazinhaaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- Estou estudando na plataforma Alura.
+- Estou me desenvolvendo nas linguagens JavaScript,Html e Css.
+- Utilizo este espaço  para a organização e compartilhamento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce pode entrar em contato comigo. 📫
+
+goncalves.barbosa.maria@escola.pr.gov.br
+
+![](https://media.tenor.com/4ypda0Yf3pIAAAAC/mc-hariel-hariel.gif)
